@@ -1,0 +1,983 @@
+
+[2026-02-22T15:19:36.094Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 28,
+  "item": null
+}
+
+[2026-02-22T15:19:36.102Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 29,
+  "item": null
+}
+
+[2026-02-22T15:19:36.103Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 30,
+  "item": null
+}
+
+[2026-02-22T15:19:36.104Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 31,
+  "item": null
+}
+
+[2026-02-22T15:19:36.104Z] [Server -> Client] inventory_content: {
+  "window_id": "inventory",
+  "total_slots": 36,
+  "non_empty_count": 0,
+  "items": []
+}
+
+[2026-02-22T15:19:36.105Z] [Server -> Client] inventory_content: {
+  "window_id": "armor",
+  "total_slots": 4,
+  "non_empty_count": 0,
+  "items": []
+}
+
+[2026-02-22T15:19:36.107Z] [Server -> Client] inventory_content: {
+  "window_id": "offhand",
+  "total_slots": 1,
+  "non_empty_count": 0,
+  "items": []
+}
+
+[2026-02-22T15:19:36.107Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 0,
+  "item": null
+}
+
+[2026-02-22T15:19:36.109Z] [Server -> Client] inventory_content: {
+  "window_id": "offhand",
+  "total_slots": 1,
+  "non_empty_count": 0,
+  "items": []
+}
+
+[2026-02-22T15:19:36.110Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 0,
+  "item": {
+    "id": 383,
+    "slot": 0,
+    "count": 1,
+    "stack_id": 2
+  }
+}
+
+[2026-02-22T15:19:36.113Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 1,
+  "item": {
+    "id": 296,
+    "slot": 1,
+    "count": 37,
+    "stack_id": 3
+  }
+}
+
+[2026-02-22T15:19:36.118Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 2,
+  "item": {
+    "id": -482,
+    "slot": 2,
+    "count": 1,
+    "stack_id": 4
+  }
+}
+
+[2026-02-22T15:19:36.119Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 3,
+  "item": {
+    "id": -483,
+    "slot": 3,
+    "count": 1,
+    "stack_id": 5
+  }
+}
+
+[2026-02-22T15:19:36.121Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 4,
+  "item": {
+    "id": 3,
+    "slot": 4,
+    "count": 1,
+    "stack_id": 6
+  }
+}
+
+[2026-02-22T15:19:36.121Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 5,
+  "item": {
+    "id": 446,
+    "slot": 5,
+    "count": 1,
+    "stack_id": 7
+  }
+}
+
+[2026-02-22T15:19:36.122Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 6,
+  "item": {
+    "id": 52,
+    "slot": 6,
+    "count": 2,
+    "stack_id": 8,
+    "name": "§r§dSpawner"
+  }
+}
+
+[2026-02-22T15:19:36.123Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 7,
+  "item": {
+    "id": 601,
+    "slot": 7,
+    "count": 1,
+    "stack_id": 9
+  }
+}
+
+[2026-02-22T15:19:36.125Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 8,
+  "item": {
+    "id": 601,
+    "slot": 8,
+    "count": 1,
+    "stack_id": 10
+  }
+}
+
+[2026-02-22T15:19:36.130Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 9,
+  "item": {
+    "id": 601,
+    "slot": 9,
+    "count": 1,
+    "stack_id": 11
+  }
+}
+
+[2026-02-22T15:19:36.132Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 10,
+  "item": {
+    "id": 205,
+    "slot": 10,
+    "count": 1,
+    "stack_id": 12
+  }
+}
+
+[2026-02-22T15:19:36.135Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 11,
+  "item": null
+}
+
+[2026-02-22T15:19:36.135Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 12,
+  "item": null
+}
+
+[2026-02-22T15:19:36.136Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 13,
+  "item": null
+}
+
+[2026-02-22T15:19:36.136Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 14,
+  "item": null
+}
+
+[2026-02-22T15:19:36.137Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 15,
+  "item": null
+}
+
+[2026-02-22T15:19:36.138Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 16,
+  "item": null
+}
+
+[2026-02-22T15:19:36.138Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 17,
+  "item": null
+}
+
+[2026-02-22T15:19:36.139Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 18,
+  "item": null
+}
+
+[2026-02-22T15:19:36.139Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 19,
+  "item": null
+}
+
+[2026-02-22T15:19:36.175Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 20,
+  "item": null
+}
+
+[2026-02-22T15:19:36.197Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 21,
+  "item": null
+}
+
+[2026-02-22T15:19:36.237Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 22,
+  "item": null
+}
+
+[2026-02-22T15:19:36.298Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 23,
+  "item": null
+}
+
+[2026-02-22T15:19:36.314Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 24,
+  "item": null
+}
+
+[2026-02-22T15:19:36.416Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 25,
+  "item": null
+}
+
+[2026-02-22T15:19:36.453Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 26,
+  "item": null
+}
+
+[2026-02-22T15:19:36.466Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 27,
+  "item": null
+}
+
+[2026-02-22T15:19:36.468Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 28,
+  "item": null
+}
+
+[2026-02-22T15:19:36.469Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 29,
+  "item": null
+}
+
+[2026-02-22T15:19:36.471Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 30,
+  "item": null
+}
+
+[2026-02-22T15:19:36.473Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 31,
+  "item": null
+}
+
+[2026-02-22T15:19:36.491Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 32,
+  "item": null
+}
+
+[2026-02-22T15:19:36.501Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 33,
+  "item": null
+}
+
+[2026-02-22T15:19:36.504Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 34,
+  "item": null
+}
+
+[2026-02-22T15:19:36.533Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 35,
+  "item": null
+}
+
+[2026-02-22T15:19:36.570Z] [Server -> Client] inventory_slot: {
+  "window_id": "armor",
+  "slot": 3,
+  "item": {
+    "id": 367,
+    "slot": 3,
+    "count": 1,
+    "stack_id": 13
+  }
+}
+
+[2026-02-22T15:19:36.573Z] [Server -> Client] inventory_slot: {
+  "window_id": "armor",
+  "slot": 2,
+  "item": {
+    "id": 366,
+    "slot": 2,
+    "count": 1,
+    "stack_id": 14
+  }
+}
+
+[2026-02-22T15:19:36.576Z] [Server -> Client] inventory_slot: {
+  "window_id": "armor",
+  "slot": 1,
+  "item": {
+    "id": 365,
+    "slot": 1,
+    "count": 1,
+    "stack_id": 15
+  }
+}
+
+[2026-02-22T15:19:36.588Z] [Server -> Client] inventory_slot: {
+  "window_id": "armor",
+  "slot": 0,
+  "item": {
+    "id": 364,
+    "slot": 0,
+    "count": 1,
+    "stack_id": 16
+  }
+}
+
+[2026-02-22T15:19:36.600Z] [Server -> Client] inventory_content: {
+  "window_id": "offhand",
+  "total_slots": 1,
+  "non_empty_count": 1,
+  "items": [
+    {
+      "id": 601,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 17
+    }
+  ]
+}
+
+[2026-02-22T15:19:36.637Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 28,
+  "item": null
+}
+
+[2026-02-22T15:19:36.721Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 29,
+  "item": null
+}
+
+[2026-02-22T15:19:36.742Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 30,
+  "item": null
+}
+
+[2026-02-22T15:19:36.757Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 31,
+  "item": null
+}
+
+[2026-02-22T15:19:36.761Z] [Server -> Client] inventory_content: {
+  "window_id": "inventory",
+  "total_slots": 36,
+  "non_empty_count": 11,
+  "items": [
+    {
+      "id": 383,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 2
+    },
+    {
+      "id": 296,
+      "slot": 1,
+      "count": 37,
+      "stack_id": 3
+    },
+    {
+      "id": -482,
+      "slot": 2,
+      "count": 1,
+      "stack_id": 4
+    },
+    {
+      "id": -483,
+      "slot": 3,
+      "count": 1,
+      "stack_id": 5
+    },
+    {
+      "id": 3,
+      "slot": 4,
+      "count": 1,
+      "stack_id": 6
+    },
+    {
+      "id": 446,
+      "slot": 5,
+      "count": 1,
+      "stack_id": 7
+    },
+    {
+      "id": 52,
+      "slot": 6,
+      "count": 2,
+      "stack_id": 8,
+      "name": "§r§dSpawner"
+    },
+    {
+      "id": 601,
+      "slot": 7,
+      "count": 1,
+      "stack_id": 9
+    },
+    {
+      "id": 601,
+      "slot": 8,
+      "count": 1,
+      "stack_id": 10
+    },
+    {
+      "id": 601,
+      "slot": 9,
+      "count": 1,
+      "stack_id": 11
+    },
+    {
+      "id": 205,
+      "slot": 10,
+      "count": 1,
+      "stack_id": 12
+    }
+  ]
+}
+
+[2026-02-22T15:19:36.787Z] [Server -> Client] inventory_content: {
+  "window_id": "armor",
+  "total_slots": 4,
+  "non_empty_count": 4,
+  "items": [
+    {
+      "id": 364,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 16
+    },
+    {
+      "id": 365,
+      "slot": 1,
+      "count": 1,
+      "stack_id": 15
+    },
+    {
+      "id": 366,
+      "slot": 2,
+      "count": 1,
+      "stack_id": 14
+    },
+    {
+      "id": 367,
+      "slot": 3,
+      "count": 1,
+      "stack_id": 13
+    }
+  ]
+}
+
+[2026-02-22T15:19:36.837Z] [Server -> Client] inventory_content: {
+  "window_id": "offhand",
+  "total_slots": 1,
+  "non_empty_count": 1,
+  "items": [
+    {
+      "id": 601,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 17
+    }
+  ]
+}
+
+[2026-02-22T15:19:36.841Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 0,
+  "item": null
+}
+
+[2026-02-22T15:19:36.842Z] [Server -> Client] inventory_content: {
+  "window_id": "offhand",
+  "total_slots": 1,
+  "non_empty_count": 1,
+  "items": [
+    {
+      "id": 601,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 17
+    }
+  ]
+}
+
+[2026-02-22T15:19:41.286Z] [Client -> Server] interact: {
+  "action_id": "open_inventory",
+  "target_entity_id": "3"
+}
+
+[2026-02-22T15:19:41.424Z] [Server -> Client] container_open: {
+  "window_id": "inventory",
+  "window_type": "inventory",
+  "coordinates": {
+    "x": -272290,
+    "y": -49,
+    "z": -68309
+  }
+}
+
+[2026-02-22T15:19:41.425Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 28,
+  "item": null
+}
+
+[2026-02-22T15:19:41.426Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 29,
+  "item": null
+}
+
+[2026-02-22T15:19:41.427Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 30,
+  "item": null
+}
+
+[2026-02-22T15:19:41.428Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 31,
+  "item": null
+}
+
+[2026-02-22T15:19:41.430Z] [Server -> Client] inventory_content: {
+  "window_id": "inventory",
+  "total_slots": 36,
+  "non_empty_count": 11,
+  "items": [
+    {
+      "id": 383,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 2
+    },
+    {
+      "id": 296,
+      "slot": 1,
+      "count": 37,
+      "stack_id": 3
+    },
+    {
+      "id": -482,
+      "slot": 2,
+      "count": 1,
+      "stack_id": 4
+    },
+    {
+      "id": -483,
+      "slot": 3,
+      "count": 1,
+      "stack_id": 5
+    },
+    {
+      "id": 3,
+      "slot": 4,
+      "count": 1,
+      "stack_id": 6
+    },
+    {
+      "id": 446,
+      "slot": 5,
+      "count": 1,
+      "stack_id": 7
+    },
+    {
+      "id": 52,
+      "slot": 6,
+      "count": 2,
+      "stack_id": 8,
+      "name": "§r§dSpawner"
+    },
+    {
+      "id": 601,
+      "slot": 7,
+      "count": 1,
+      "stack_id": 9
+    },
+    {
+      "id": 601,
+      "slot": 8,
+      "count": 1,
+      "stack_id": 10
+    },
+    {
+      "id": 601,
+      "slot": 9,
+      "count": 1,
+      "stack_id": 11
+    },
+    {
+      "id": 205,
+      "slot": 10,
+      "count": 1,
+      "stack_id": 12
+    }
+  ]
+}
+
+[2026-02-22T15:19:41.434Z] [Server -> Client] inventory_content: {
+  "window_id": "armor",
+  "total_slots": 4,
+  "non_empty_count": 4,
+  "items": [
+    {
+      "id": 364,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 16
+    },
+    {
+      "id": 365,
+      "slot": 1,
+      "count": 1,
+      "stack_id": 15
+    },
+    {
+      "id": 366,
+      "slot": 2,
+      "count": 1,
+      "stack_id": 14
+    },
+    {
+      "id": 367,
+      "slot": 3,
+      "count": 1,
+      "stack_id": 13
+    }
+  ]
+}
+
+[2026-02-22T15:19:41.437Z] [Server -> Client] inventory_content: {
+  "window_id": "offhand",
+  "total_slots": 1,
+  "non_empty_count": 1,
+  "items": [
+    {
+      "id": 601,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 17
+    }
+  ]
+}
+
+[2026-02-22T15:19:43.817Z] [Client -> Server] item_stack_request: {
+  "requests": [
+    {
+      "request_id": -65,
+      "actions": [
+        {
+          "type_id": "drop",
+          "count": 2,
+          "source": {
+            "container_id": "hotbar",
+            "slot": 6,
+            "stack_id": 8
+          }
+        }
+      ]
+    }
+  ]
+}
+
+[2026-02-22T15:19:43.912Z] [Server -> Client] item_stack_response: {
+  "responses": [
+    {
+      "status": "ok",
+      "request_id": -65,
+      "containers": [
+        {
+          "slot_type": {
+            "container_id": "hotbar"
+          },
+          "slots": [
+            {
+              "slot": 6,
+              "hotbar_slot": 6,
+              "count": 0,
+              "item_stack_id": 0,
+              "custom_name": "",
+              "filtered_custom_name": "",
+              "durability_correction": 0
+            }
+          ]
+        },
+        {
+          "slot_type": {
+            "container_id": "cursor"
+          },
+          "slots": [
+            {
+              "slot": 0,
+              "hotbar_slot": 0,
+              "count": 0,
+              "item_stack_id": 0,
+              "custom_name": "",
+              "filtered_custom_name": "",
+              "durability_correction": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+[2026-02-22T15:19:46.324Z] [Client -> Server] container_close: {
+  "window_id": "inventory",
+  "window_type": "none",
+  "server": false
+}
+
+[2026-02-22T15:19:46.417Z] [Server -> Client] container_close: {
+  "window_id": "inventory",
+  "window_type": "none",
+  "server": false
+}
+
+[2026-02-22T15:19:46.419Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 0,
+  "item": null
+}
+
+[2026-02-22T15:19:47.369Z] [Server -> Client] inventory_slot: {
+  "window_id": "inventory",
+  "slot": 6,
+  "item": {
+    "id": 52,
+    "slot": 6,
+    "count": 2,
+    "stack_id": 18,
+    "name": "§r§dSpawner"
+  }
+}
+
+[2026-02-22T15:19:48.139Z] [Client -> Server] interact: {
+  "action_id": "open_inventory",
+  "target_entity_id": "3"
+}
+
+[2026-02-22T15:19:48.233Z] [Server -> Client] container_open: {
+  "window_id": "inventory",
+  "window_type": "inventory",
+  "coordinates": {
+    "x": -272289,
+    "y": -49,
+    "z": -68309
+  }
+}
+
+[2026-02-22T15:19:48.237Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 28,
+  "item": null
+}
+
+[2026-02-22T15:19:48.241Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 29,
+  "item": null
+}
+
+[2026-02-22T15:19:48.244Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 30,
+  "item": null
+}
+
+[2026-02-22T15:19:48.250Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 31,
+  "item": null
+}
+
+[2026-02-22T15:19:48.254Z] [Server -> Client] inventory_content: {
+  "window_id": "inventory",
+  "total_slots": 36,
+  "non_empty_count": 11,
+  "items": [
+    {
+      "id": 383,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 2
+    },
+    {
+      "id": 296,
+      "slot": 1,
+      "count": 37,
+      "stack_id": 3
+    },
+    {
+      "id": -482,
+      "slot": 2,
+      "count": 1,
+      "stack_id": 4
+    },
+    {
+      "id": -483,
+      "slot": 3,
+      "count": 1,
+      "stack_id": 5
+    },
+    {
+      "id": 3,
+      "slot": 4,
+      "count": 1,
+      "stack_id": 6
+    },
+    {
+      "id": 446,
+      "slot": 5,
+      "count": 1,
+      "stack_id": 7
+    },
+    {
+      "id": 52,
+      "slot": 6,
+      "count": 2,
+      "stack_id": 18,
+      "name": "§r§dSpawner"
+    },
+    {
+      "id": 601,
+      "slot": 7,
+      "count": 1,
+      "stack_id": 9
+    },
+    {
+      "id": 601,
+      "slot": 8,
+      "count": 1,
+      "stack_id": 10
+    },
+    {
+      "id": 601,
+      "slot": 9,
+      "count": 1,
+      "stack_id": 11
+    },
+    {
+      "id": 205,
+      "slot": 10,
+      "count": 1,
+      "stack_id": 12
+    }
+  ]
+}
+
+[2026-02-22T15:19:48.257Z] [Server -> Client] inventory_content: {
+  "window_id": "armor",
+  "total_slots": 4,
+  "non_empty_count": 4,
+  "items": [
+    {
+      "id": 364,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 16
+    },
+    {
+      "id": 365,
+      "slot": 1,
+      "count": 1,
+      "stack_id": 15
+    },
+    {
+      "id": 366,
+      "slot": 2,
+      "count": 1,
+      "stack_id": 14
+    },
+    {
+      "id": 367,
+      "slot": 3,
+      "count": 1,
+      "stack_id": 13
+    }
+  ]
+}
+
+[2026-02-22T15:19:48.258Z] [Server -> Client] inventory_content: {
+  "window_id": "offhand",
+  "total_slots": 1,
+  "non_empty_count": 1,
+  "items": [
+    {
+      "id": 601,
+      "slot": 0,
+      "count": 1,
+      "stack_id": 17
+    }
+  ]
+}
+
+[2026-02-22T15:19:49.367Z] [Client -> Server] container_close: {
+  "window_id": "inventory",
+  "window_type": "none",
+  "server": false
+}
+
+[2026-02-22T15:19:49.476Z] [Server -> Client] container_close: {
+  "window_id": "inventory",
+  "window_type": "none",
+  "server": false
+}
+
+[2026-02-22T15:19:49.477Z] [Server -> Client] inventory_slot: {
+  "window_id": "ui",
+  "slot": 0,
+  "item": null
+}

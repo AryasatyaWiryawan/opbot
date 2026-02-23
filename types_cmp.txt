@@ -1,0 +1,171 @@
+WindowID 1.21.124:
+[
+  "mapper",
+  {
+    "type": "i8",
+    "mappings": {
+      "0": "inventory",
+      "1": "first",
+      "100": "last",
+      "119": "offhand",
+      "120": "armor",
+      "121": "creative",
+      "122": "hotbar",
+      "123": "fixed_inventory",
+      "124": "ui",
+      "-100": "drop_contents",
+      "-24": "beacon",
+      "-23": "trading_output",
+      "-22": "trading_use_inputs",
+      "-21": "trading_input_2",
+      "-20": "trading_input_1",
+      "-17": "enchant_output",
+      "-16": "enchant_material",
+      "-15": "enchant_input",
+      "-13": "anvil_output",
+      "-12": "anvil_result",
+      "-11": "anvil_material",
+      "-10": "container_input",
+      "-5": "crafting_use_ingredient",
+      "-4": "crafting_result",
+      "-3": "crafting_remove_ingredient",
+      "-2": "crafting_add_ingredient",
+      "-1": "none"
+    }
+  }
+]
+
+WindowID 1.21.130:
+[
+  "mapper",
+  {
+    "type": "i8",
+    "mappings": {
+      "0": "inventory",
+      "1": "first",
+      "100": "last",
+      "119": "offhand",
+      "120": "armor",
+      "121": "creative",
+      "122": "hotbar",
+      "123": "fixed_inventory",
+      "124": "ui",
+      "-100": "drop_contents",
+      "-24": "beacon",
+      "-23": "trading_output",
+      "-22": "trading_use_inputs",
+      "-21": "trading_input_2",
+      "-20": "trading_input_1",
+      "-17": "enchant_output",
+      "-16": "enchant_material",
+      "-15": "enchant_input",
+      "-13": "anvil_output",
+      "-12": "anvil_result",
+      "-11": "anvil_material",
+      "-10": "container_input",
+      "-5": "crafting_use_ingredient",
+      "-4": "crafting_result",
+      "-3": "crafting_remove_ingredient",
+      "-2": "crafting_add_ingredient",
+      "-1": "none"
+    }
+  }
+]
+
+WindowType 1.21.124:
+[
+  "mapper",
+  {
+    "type": "i8",
+    "mappings": {
+      "0": "container",
+      "1": "workbench",
+      "2": "furnace",
+      "3": "enchantment",
+      "4": "brewing_stand",
+      "5": "anvil",
+      "6": "dispenser",
+      "7": "dropper",
+      "8": "hopper",
+      "9": "cauldron",
+      "10": "minecart_chest",
+      "11": "minecart_hopper",
+      "12": "horse",
+      "13": "beacon",
+      "14": "structure_editor",
+      "15": "trading",
+      "16": "command_block",
+      "17": "jukebox",
+      "18": "armor",
+      "19": "hand",
+      "20": "compound_creator",
+      "21": "element_constructor",
+      "22": "material_reducer",
+      "23": "lab_table",
+      "24": "loom",
+      "25": "lectern",
+      "26": "grindstone",
+      "27": "blast_furnace",
+      "28": "smoker",
+      "29": "stonecutter",
+      "30": "cartography",
+      "31": "hud",
+      "32": "jigsaw_editor",
+      "33": "smithing_table",
+      "34": "chest_boat",
+      "35": "decorated_pot",
+      "36": "crafter",
+      "-9": "none",
+      "-1": "inventory"
+    }
+  }
+]
+
+WindowType 1.21.130:
+[
+  "mapper",
+  {
+    "type": "i8",
+    "mappings": {
+      "0": "container",
+      "1": "workbench",
+      "2": "furnace",
+      "3": "enchantment",
+      "4": "brewing_stand",
+      "5": "anvil",
+      "6": "dispenser",
+      "7": "dropper",
+      "8": "hopper",
+      "9": "cauldron",
+      "10": "minecart_chest",
+      "11": "minecart_hopper",
+      "12": "horse",
+      "13": "beacon",
+      "14": "structure_editor",
+      "15": "trading",
+      "16": "command_block",
+      "17": "jukebox",
+      "18": "armor",
+      "19": "hand",
+      "20": "compound_creator",
+      "21": "element_constructor",
+      "22": "material_reducer",
+      "23": "lab_table",
+      "24": "loom",
+      "25": "lectern",
+      "26": "grindstone",
+      "27": "blast_furnace",
+      "28": "smoker",
+      "29": "stonecutter",
+      "30": "cartography",
+      "31": "hud",
+      "32": "jigsaw_editor",
+      "33": "smithing_table",
+      "34": "chest_boat",
+      "35": "decorated_pot",
+      "36": "crafter",
+      "-9": "none",
+      "-1": "inventory"
+    }
+  }
+]

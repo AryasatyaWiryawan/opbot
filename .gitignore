@@ -6,3 +6,6 @@ __*
 data/
 tools/bds*
 tools/pmmp*
+# Bot auth cache contains Microsoft tokens - DO NOT COMMIT
+auth_cache/
+.env

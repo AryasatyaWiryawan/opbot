@@ -1,0 +1,294 @@
+﻿
+>   "command": "/afk",
+    "origin": {
+      "type": 
+"player",
+      "uuid": "6448417
+4-7bc6-5a96-3930-55c77
+6376aa0",
+      "request_id": ""
+    },
+    "internal": false,
+    "version": 88
+  }
+  
+  [Server -> Client] 
+inventory_content: {
+    "window_id": 
+"inventory",
+    "input": "[36 
+items...]",
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    }
+  }
+  
+  [Server -> Client] 
+inventory_content: {
+    "window_id": 
+"first",
+    "input": "[54 
+items...]",
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    }
+  }
+  
+  [Server -> Client] 
+inventory_slot: {
+    "window_id": "ui",
+    "slot": 0,
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    },
+    "item": {
+      "network_id": 0
+    }
+  }
+  
+  [Server -> Client] 
+inventory_content: {
+    "window_id": 
+"offhand",
+    "input": [
+      {
+        "network_id": 
+601,
+        "count": 1,
+        "metadata": 0,
+        
+"has_stack_id": 1,
+        "stack_id": 
+16,
+        
+"block_runtime_id": 0,
+        "extra": {
+          "has_nbt": 
+0,
+          
+"can_place_on": [],
+          
+"can_destroy": []
+        }
+      }
+    ],
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    }
+  }
+  
+  [Client -> Server] n
+etwork_stack_latency: 
+{
+    "timestamp": [
+      4292667734,
+      375124352
+    ],
+    "needs_response": 
+1
+  }
+  
+  [Server -> Client] 
+container_open: {
+    "window_id": 
+"first",
+    "window_type": 
+"container",
+    "coordinates": {
+      "x": -15,
+      "y": 66,
+      "z": 1
+    },
+    
+"runtime_entity_id": 
+"-1"
+  }
+  
+  [Server -> Client] 
+inventory_content: {
+    "window_id": 
+"inventory",
+    "input": "[36 
+items...]",
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    }
+  }
+  
+  [Server -> Client] 
+inventory_content: {
+    "window_id": 
+"first",
+    "input": "[54 
+items...]",
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    }
+  }
+  
+  [Server -> Client] 
+inventory_slot: {
+    "window_id": 
+"first",
+    "slot": 0,
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    },
+    "item": {
+      "network_id": 
+152,
+      "count": 1,
+      "metadata": 0,
+      "has_stack_id": 
+1,
+      "stack_id": 17,
+      
+"block_runtime_id": 
+5369,
+      "extra": {
+        "has_nbt": 
+true,
+        "nbt": {
+          "version": 
+1,
+          "nbt": {
+            "type": 
+"compound",
+            "name": 
+"",
+            "value": {
+              
+"GeyserHash": {
+                
+"type": "int",
+                
+"value": 1368299965
+              },
+              
+"display": {
+                
+"type": "compound",
+                
+"value": {
+                  
+"Name": {
+                    
+"type": "string",
+                    
+"value": 
+"Â§rÂ§dá´€êœ°á´‹ 1"
+                  },
+                  
+"Lore": {
+                    
+"type": "list",
+                    
+"value": {
+                      
+"type": "string",
+                      
+"value": [
+                      
+  "Â§rÂ§8250/250",
+                      
+  "Â§rÂ§cThis area is 
+full."
+                      
+]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        
+"can_place_on": [],
+        
+"can_destroy": []
+      }
+    }
+  }
+  
+  [Server -> Client] 
+inventory_slot: {
+    "window_id": 
+"first",
+    "slot": 1,
+    "container": {
+      "container_id": 
+"anvil_input"
+    },
+    "storage_item": {
+      "network_id": 0
+    },
+    "item": {
+      "network_id": 
+152,
+      "count": 1,
+      "metadata": 0,
+      "has_stack_id": 
+1,
+      "stack_id": 18,
+      
+"block_runtime_id": 
+5369,
+      "extra": {
+        "has_nbt": 
+true,
+        "nbt": {
+          "version": 
+1,
+          "nbt": {
+            "type": 
+"compound",
+            "name": 
+"",
+            "value": {
+              
+"GeyserHash": {
+                
+"type": "int",
+                
+"value": 1368300926
+              },
+              
+"display": {
+                
+"type": "compound",
+                
+"value": {
+                  
+"Name": {
+                    
+"type": "string",
+
+

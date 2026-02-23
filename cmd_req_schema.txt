@@ -1,0 +1,21 @@
+[
+  "container",
+  [
+    {
+      "name": "command",
+      "type": "string"
+    },
+    {
+      "name": "origin",
+      "type": "CommandOrigin"
+    },
+    {
+      "name": "internal",
+      "type": "bool"
+    },
+    {
+      "name": "version",
+      "type": "varint"
+    }
+  ]
+]

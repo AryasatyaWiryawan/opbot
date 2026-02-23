@@ -1,0 +1,16 @@
+[
+  "container",
+  [
+    {
+      "name": "container_id",
+      "type": "ContainerSlotType"
+    },
+    {
+      "name": "dynamic_container_id",
+      "type": [
+        "option",
+        "u32"
+      ]
+    }
+  ]
+]

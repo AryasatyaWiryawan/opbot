@@ -11,7 +11,8 @@
     "lint": "standard",
     "vanillaServer": "minecraft-bedrock-server --root tools --version",
     "dumpPackets": "node tools/genPacketDumps.js",
-    "fix": "standard --fix"
+    "fix": "standard --fix",
+    "bot": "node bot/index.js"
   },
   "keywords": [
     "minecraft",
@@ -22,9 +23,10 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^4.3.1",
+    "dotenv": "^17.2.3",
     "jsonwebtoken": "^9.0.0",
     "jsp-raknet": "^2.1.3",
-    "minecraft-data": "^3.0.0",
+    "minecraft-data": "^3.105.0",
     "minecraft-folder-path": "^1.2.0",
     "prismarine-auth": "^2.0.0",
     "prismarine-nbt": "^2.0.0",

@@ -1,0 +1,379 @@
+[
+  "container",
+  [
+    {
+      "name": "request_id",
+      "type": "zigzag32"
+    },
+    {
+      "name": "actions",
+      "type": [
+        "array",
+        {
+          "countType": "varint",
+          "type": [
+            "container",
+            [
+              {
+                "name": "type_id",
+                "type": [
+                  "mapper",
+                  {
+                    "type": "u8",
+                    "mappings": {
+                      "0": "take",
+                      "1": "place",
+                      "2": "swap",
+                      "3": "drop",
+                      "4": "destroy",
+                      "5": "consume",
+                      "6": "create",
+                      "7": "place_in_container",
+                      "8": "take_out_container",
+                      "9": "lab_table_combine",
+                      "10": "beacon_payment",
+                      "11": "mine_block",
+                      "12": "craft_recipe",
+                      "13": "craft_recipe_auto",
+                      "14": "craft_creative",
+                      "15": "optional",
+                      "16": "craft_grindstone_request",
+                      "17": "craft_loom_request",
+                      "18": "non_implemented",
+                      "19": "results_deprecated"
+                    }
+                  }
+                ]
+              },
+              {
+                "anon": true,
+                "type": [
+                  "switch",
+                  {
+                    "compareTo": "type_id",
+                    "fields": {
+                      "take": [
+                        "container",
+                        [
+                          {
+                            "name": "count",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          },
+                          {
+                            "name": "destination",
+                            "type": "StackRequestSlotInfo"
+                          }
+                        ]
+                      ],
+                      "place": [
+                        "container",
+                        [
+                          {
+                            "name": "count",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          },
+                          {
+                            "name": "destination",
+                            "type": "StackRequestSlotInfo"
+                          }
+                        ]
+                      ],
+                      "place_in_container": [
+                        "container",
+                        [
+                          {
+                            "name": "count",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          },
+                          {
+                            "name": "destination",
+                            "type": "StackRequestSlotInfo"
+                          }
+                        ]
+                      ],
+                      "take_out_container": [
+                        "container",
+                        [
+                          {
+                            "name": "count",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          },
+                          {
+                            "name": "destination",
+                            "type": "StackRequestSlotInfo"
+                          }
+                        ]
+                      ],
+                      "swap": [
+                        "container",
+                        [
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          },
+                          {
+                            "name": "destination",
+                            "type": "StackRequestSlotInfo"
+                          }
+                        ]
+                      ],
+                      "drop": [
+                        "container",
+                        [
+                          {
+                            "name": "count",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          },
+                          {
+                            "name": "randomly",
+                            "type": "bool"
+                          }
+                        ]
+                      ],
+                      "destroy": [
+                        "container",
+                        [
+                          {
+                            "name": "count",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          }
+                        ]
+                      ],
+                      "consume": [
+                        "container",
+                        [
+                          {
+                            "name": "count",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "source",
+                            "type": "StackRequestSlotInfo"
+                          }
+                        ]
+                      ],
+                      "create": [
+                        "container",
+                        [
+                          {
+                            "name": "result_slot_id",
+                            "type": "u8"
+                          }
+                        ]
+                      ],
+                      "beacon_payment": [
+                        "container",
+                        [
+                          {
+                            "name": "primary_effect",
+                            "type": "zigzag32"
+                          },
+                          {
+                            "name": "secondary_effect",
+                            "type": "zigzag32"
+                          }
+                        ]
+                      ],
+                      "mine_block": [
+                        "container",
+                        [
+                          {
+                            "name": "hotbar_slot",
+                            "type": "zigzag32"
+                          },
+                          {
+                            "name": "predicted_durability",
+                            "type": "zigzag32"
+                          },
+                          {
+                            "name": "network_id",
+                            "type": "zigzag32"
+                          }
+                        ]
+                      ],
+                      "craft_recipe": [
+                        "container",
+                        [
+                          {
+                            "name": "recipe_network_id",
+                            "type": "varint"
+                          },
+                          {
+                            "name": "times_crafted",
+                            "type": "u8"
+                          }
+                        ]
+                      ],
+                      "craft_recipe_auto": [
+                        "container",
+                        [
+                          {
+                            "name": "recipe_network_id",
+                            "type": "varint"
+                          },
+                          {
+                            "name": "times_crafted_2",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "times_crafted",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "ingredients",
+                            "type": [
+                              "array",
+                              {
+                                "countType": "varint",
+                                "type": "RecipeIngredient"
+                              }
+                            ]
+                          }
+                        ]
+                      ],
+                      "craft_creative": [
+                        "container",
+                        [
+                          {
+                            "name": "item_id",
+                            "type": "varint"
+                          },
+                          {
+                            "name": "times_crafted",
+                            "type": "u8"
+                          }
+                        ]
+                      ],
+                      "optional": [
+                        "container",
+                        [
+                          {
+                            "name": "recipe_network_id",
+                            "type": "varint"
+                          },
+                          {
+                            "name": "filtered_string_index",
+                            "type": "li32"
+                          }
+                        ]
+                      ],
+                      "craft_grindstone_request": [
+                        "container",
+                        [
+                          {
+                            "name": "recipe_network_id",
+                            "type": "varint"
+                          },
+                          {
+                            "name": "times_crafted",
+                            "type": "u8"
+                          },
+                          {
+                            "name": "cost",
+                            "type": "varint"
+                          }
+                        ]
+                      ],
+                      "craft_loom_request": [
+                        "container",
+                        [
+                          {
+                            "name": "pattern",
+                            "type": "string"
+                          },
+                          {
+                            "name": "times_crafted",
+                            "type": "u8"
+                          }
+                        ]
+                      ],
+                      "non_implemented": "void",
+                      "results_deprecated": [
+                        "container",
+                        [
+                          {
+                            "name": "result_items",
+                            "type": [
+                              "array",
+                              {
+                                "countType": "varint",
+                                "type": "ItemLegacy"
+                              }
+                            ]
+                          },
+                          {
+                            "name": "times_crafted",
+                            "type": "u8"
+                          }
+                        ]
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "custom_names",
+      "type": [
+        "array",
+        {
+          "countType": "varint",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": [
+        "mapper",
+        {
+          "type": "li32",
+          "mappings": {
+            "0": "chat_public",
+            "1": "chat_whisper",
+            "2": "sign_text",
+            "3": "anvil_text",
+            "4": "book_and_quill_text",
+            "5": "command_block_text",
+            "6": "block_actor_data_text",
+            "7": "join_event_text",
+            "8": "leave_event_text",
+            "9": "slash_command_chat",
+            "10": "cartography_text",
+            "11": "kick_command",
+            "12": "title_command",
+            "13": "summon_command"
+          }
+        }
+      ]
+    }
+  ]
+]

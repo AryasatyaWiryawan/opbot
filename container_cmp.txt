@@ -1,0 +1,45 @@
+1.21.124:
+[
+  "container",
+  [
+    {
+      "name": "window_id",
+      "type": "WindowID"
+    },
+    {
+      "name": "window_type",
+      "type": "WindowType"
+    },
+    {
+      "name": "coordinates",
+      "type": "BlockCoordinates"
+    },
+    {
+      "name": "runtime_entity_id",
+      "type": "zigzag64"
+    }
+  ]
+]
+
+1.21.130:
+[
+  "container",
+  [
+    {
+      "name": "window_id",
+      "type": "WindowID"
+    },
+    {
+      "name": "window_type",
+      "type": "WindowType"
+    },
+    {
+      "name": "coordinates",
+      "type": "BlockCoordinates"
+    },
+    {
+      "name": "runtime_entity_id",
+      "type": "zigzag64"
+    }
+  ]
+]

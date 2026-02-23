@@ -1,0 +1,17 @@
+[
+  "container",
+  [
+    {
+      "name": "slot_type",
+      "type": "FullContainerName"
+    },
+    {
+      "name": "slot",
+      "type": "u8"
+    },
+    {
+      "name": "stack_id",
+      "type": "zigzag32"
+    }
+  ]
+]

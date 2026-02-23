@@ -1,0 +1,336 @@
+﻿
+  packets.log:1963:    
+"bounty",
+  packets.log:1964:    "ah",
+  packets.log:1965:    "pay",
+  packets.log:1966:    
+"tpahere",
+  packets.log:1967:    
+"leaderboard",
+  packets.log:1968:    
+"teleporthere",
+  packets.log:1969:    
+"discord",
+  packets.log:1970:    
+"spectate",
+  packets.log:1971:    
+"orders",
+  packets.log:1972:    
+"warp",
+  packets.log:1973:    
+"tpdeny",
+  packets.log:1974:    
+"shop",
+  packets.log:1975:    
+"ping",
+  packets.log:1976:    
+"teleport",
+  packets.log:1977:    
+"unignore",
+  packets.log:1978:    "fp",
+  packets.log:1979:    
+"media",
+  packets.log:1980:    
+"subscription",
+  packets.log:1981:    
+"billford",
+  packets.log:1982:    
+"worth",
+  packets.log:1983:    
+"auction",
+  packets.log:1984:    
+"sellhistory",
+  packets.log:1985:    
+"world",
+  packets.log:1986:    
+"duel",
+  packets.log:1987:    
+"medal",
+  packets.log:1988:    
+"ignore",
+  packets.log:1989:    
+"tpauto",
+  packets.log:1990:    
+"website",
+  packets.log:1991:    "tpa",
+  packets.log:1992:    
+"sell",
+> packets.log:1993:    "afk",
+  packets.log:1994:    
+"team",
+  packets.log:1995:    
+"store",
+  packets.log:1996:    
+"baltop",
+  packets.log:1997:    
+"message",
+  packets.log:1998:    
+"tpaccept",
+  packets.log:1999:    
+"home",
+  packets.log:2000:    "rtp",
+  packets.log:2001:    
+"shards",
+  packets.log:2002:    
+"hide",
+  packets.log:2003:    "r",
+  packets.log:2004:    
+"spawn",
+  packets.log:2005:    
+"whereami",
+  packets.log:2006:    
+"report",
+  packets.log:2007:    
+"whisper",
+  packets.log:2008:    "tp",
+  packets.log:2009:    
+"geyser",
+  packets.log:2010:    
+"advancements",
+  packets.log:2011:    
+"extensions",
+  packets.log:2012:    "?",
+  packets.log:2013:    
+"offhand",
+  packets.log:2014:    
+"options",
+  packets.log:2015:    
+"quickactions",
+  packets.log:2016:    
+"statistics",
+  packets.log:2017:    
+"tooltips"
+  packets.log:2018:  ],
+  packets.log:2019:  
+"chained_subcommand_values": 
+[],
+  packets.log:2020:  
+"suffixes": [],
+  packets.log:2021:  
+"enums": [
+  packets.log:2022:    {
+  packets.log:2023:      
+"name": "helpAliases",
+  packets.log:4526:    "y": 
+0,
+  packets.log:4527:    "z": 0
+  packets.log:4528:  }
+  packets.log:4529:}
+  packets.log:4530:
+  packets.log:4531:[Client 
+-> Server] interact: {
+  packets.log:4532:  
+"action_id": 
+"mouse_over_entity",
+  packets.log:4533:  
+"target_entity_id": "0",
+  packets.log:4534:  
+"position": {
+  packets.log:4535:    "x": 
+0,
+  packets.log:4536:    "y": 
+0,
+  packets.log:4537:    "z": 0
+  packets.log:4538:  }
+  packets.log:4539:}
+  packets.log:4540:
+  packets.log:4541:[Client 
+-> Server] 
+client_camera_aim_assist: {
+  packets.log:4542:  
+"preset_id": "",
+  packets.log:4543:  
+"action": "clear",
+  packets.log:4544:  
+"allow_aim_assist": false
+  packets.log:4545:}
+  packets.log:4546:
+  packets.log:4547:[Client 
+-> Server] 
+serverbound_loading_screen: {
+  packets.log:4548:  "type": 
+2
+  packets.log:4549:}
+  packets.log:4550:
+  packets.log:4551:[Client 
+-> Server] set_local_player_a
+s_initialized: {
+  packets.log:4552:  
+"runtime_entity_id": "3"
+  packets.log:4553:}
+  packets.log:4554:
+  packets.log:4555:[Client 
+-> Server] command_request: {
+> packets.log:4556:  
+"command": "/afk",
+  packets.log:4557:  
+"origin": {
+  packets.log:4558:    
+"type": "player",
+  packets.log:4559:    
+"uuid": "64484174-7bc6-5a96-3
+930-55c776376aa0",
+  packets.log:4560:    
+"request_id": ""
+  packets.log:4561:  },
+  packets.log:4562:  
+"internal": false,
+  packets.log:4563:  
+"version": 88
+  packets.log:4564:}
+  packets.log:4565:
+  packets.log:4566:[Server 
+-> Client] 
+inventory_content: {
+  packets.log:4567:  
+"window_id": "inventory",
+  packets.log:4568:  
+"input": "[36 items...]",
+  packets.log:4569:  
+"container": {
+  packets.log:4570:    
+"container_id": "anvil_input"
+  packets.log:4571:  },
+  packets.log:4572:  
+"storage_item": {
+  packets.log:4573:    
+"network_id": 0
+  packets.log:4574:  }
+  packets.log:4575:}
+  packets.log:4576:
+  packets.log:4577:[Server 
+-> Client] 
+inventory_content: {
+  packets.log:4578:  
+"window_id": "first",
+  packets.log:4579:  
+"input": "[54 items...]",
+  packets.log:4580:  
+"container": {
+  packets.log:4581:    
+"container_id": "anvil_input"
+  packets.log:4582:  },
+  packets.log:4583:  
+"storage_item": {
+  packets.log:4584:    
+"network_id": 0
+  packets.log:4585:  }
+  packets.log:4586:}
+  packets.log:28011:    
+"bounty",
+  packets.log:28012:    "ah",
+  packets.log:28013:    
+"pay",
+  packets.log:28014:    
+"tpahere",
+  packets.log:28015:    
+"leaderboard",
+  packets.log:28016:    
+"teleporthere",
+  packets.log:28017:    
+"discord",
+  packets.log:28018:    
+"spectate",
+  packets.log:28019:    
+"orders",
+  packets.log:28020:    
+"warp",
+  packets.log:28021:    
+"tpdeny",
+  packets.log:28022:    
+"shop",
+  packets.log:28023:    
+"ping",
+  packets.log:28024:    
+"teleport",
+  packets.log:28025:    
+"unignore",
+  packets.log:28026:    "fp",
+  packets.log:28027:    
+"media",
+  packets.log:28028:    
+"subscription",
+  packets.log:28029:    
+"billford",
+  packets.log:28030:    
+"worth",
+  packets.log:28031:    
+"auction",
+  packets.log:28032:    
+"sellhistory",
+  packets.log:28033:    
+"world",
+  packets.log:28034:    
+"duel",
+  packets.log:28035:    
+"medal",
+  packets.log:28036:    
+"ignore",
+  packets.log:28037:    
+"tpauto",
+  packets.log:28038:    
+"website",
+  packets.log:28039:    
+"tpa",
+  packets.log:28040:    
+"sell",
+> packets.log:28041:    
+"afk",
+  packets.log:28042:    
+"team",
+  packets.log:28043:    
+"store",
+  packets.log:28044:    
+"baltop",
+  packets.log:28045:    
+"message",
+  packets.log:28046:    
+"tpaccept",
+  packets.log:28047:    
+"home",
+  packets.log:28048:    
+"rtp",
+  packets.log:28049:    
+"shards",
+  packets.log:28050:    
+"hide",
+  packets.log:28051:    "r",
+  packets.log:28052:    
+"spawn",
+  packets.log:28053:    
+"whereami",
+  packets.log:28054:    
+"report",
+  packets.log:28055:    
+"whisper",
+  packets.log:28056:    "tp",
+  packets.log:28057:    
+"geyser",
+  packets.log:28058:    
+"advancements",
+  packets.log:28059:    
+"extensions",
+  packets.log:28060:    "?",
+  packets.log:28061:    
+"offhand",
+  packets.log:28062:    
+"options",
+  packets.log:28063:    
+"quickactions",
+  packets.log:28064:    
+"statistics",
+  packets.log:28065:    
+"tooltips"
+  packets.log:28066:  ],
+  packets.log:28067:  
+"chained_subcommand_values": 
+[],
+  packets.log:28068:  
+"suffixes": [],
+  packets.log:28069:  
+"enums": [
+  packets.log:28070:    {
+  packets.log:28071:      
+"name": "helpAliases",
+
+
